@@ -663,7 +663,7 @@ align-items: center;
   position: absolute;
   left: 0;
   top: 47px;
-  width: 311px;
+  width: 100%;
   margin: 0.1em auto 0;
   background: var(--soft-red);
   color: var(--very-light-grey);
